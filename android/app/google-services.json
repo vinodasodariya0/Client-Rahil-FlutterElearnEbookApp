@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832499078409",
+    "firebase_url": "https://collegesathi-b6873-default-rtdb.firebaseio.com",
+    "project_id": "collegesathi-b6873",
+    "storage_bucket": "collegesathi-b6873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832499078409:android:59d198fa94fd7c8d43afd8",
+        "android_client_info": {
+          "package_name": "in.rahilmohammad.collegesathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832499078409-n7d0epu8e80r4a7qhcsp9736og5fujc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXMObLjF-y2T2PsnfyXYx_LyWDklVkLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832499078409-n7d0epu8e80r4a7qhcsp9736og5fujc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

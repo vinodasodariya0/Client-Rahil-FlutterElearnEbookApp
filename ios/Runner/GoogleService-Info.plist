@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>798167088224-jub4dn85uu3h9hlb7f1ub95j362ecnuk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.798167088224-jub4dn85uu3h9hlb7f1ub95j362ecnuk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>798167088224-mton73ndg8i67711h77e1m4i1nir4nj9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOB-SWW9jR5Bg2Vh8KqBUUpx6ZrSzHqNY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>798167088224</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vinodflutter.ebookonline</string>
+	<key>PROJECT_ID</key>
+	<string>vocsy-codec-ebook</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vocsy-codec-ebook.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:798167088224:ios:f24068158487f064195705</string>
+</dict>
+</plist>
